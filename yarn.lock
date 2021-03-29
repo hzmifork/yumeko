@@ -111,10 +111,10 @@
   resolved "https://registry.yarnpkg.com/@types/estree/-/estree-0.0.45.tgz#e9387572998e5ecdac221950dab3e8c3b16af884"
   integrity sha512-jnqIUKDUqJbDIUxm0Uj7bnlMnRm1T/eZ9N+AVMqhPgzrba2GhGG5o/jCTwmdPK709nEZsGoMzXEDUjcXHa3W0g==
 
-"@types/figlet@^1.2.0":
-  version "1.2.0"
-  resolved "https://registry.yarnpkg.com/@types/figlet/-/figlet-1.2.0.tgz#2dab76da069dc8ce5dcab461f7f2788317fb01a8"
-  integrity sha512-TDZkNpYfkc3X8yv7w1QBziZmmxzNfGKX+YjeNkMpmSiNV0QOdNf9G5cEZB3FH1/oaqpSQEdxuDzURdju2L3lng==
+"@types/figlet@^1.5.0":
+  version "1.5.0"
+  resolved "https://registry.yarnpkg.com/@types/figlet/-/figlet-1.5.0.tgz#6a90e52614d299b558e9ae8b9c92931b00f857bf"
+  integrity sha512-LffgrNrwx2bs52gXSuycuMSbxwnVgNeWJAEyo8dNnDcIqNCZ13zNJeoNU2IWs62EeUORIj34zkEN7oeMrWdJ8Q==
 
 "@types/json-schema@*", "@types/json-schema@^7.0.3":
   version "7.0.6"
